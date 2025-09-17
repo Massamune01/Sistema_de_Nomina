@@ -1,0 +1,42 @@
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.exe
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.deps.json
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.runtimeconfig.json
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfoInputs.cache
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfo.cs
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\refint\Sistema de Nomina.dll
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.genruntimeconfig.cache
+C:\Users\Jeremy Santiago\Documents\c#\ejercicios\repaso\Practica final de Poo\obj\Debug\net8.0\ref\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.exe
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.deps.json
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.runtimeconfig.json
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\bin\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfoInputs.cache
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfo.cs
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\refint\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\Sistema de Nomina.genruntimeconfig.cache
+C:\Users\ym741\OneDrive\Desktop\Practica final de Poo\obj\Debug\net8.0\ref\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.exe
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.deps.json
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.runtimeconfig.json
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfoInputs.cache
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfo.cs
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\refint\Sistema de Nomina.dll
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.genruntimeconfig.cache
+C:\Users\ym741\OneDrive\Desktop\Sistema de Nomina\obj\Debug\net8.0\ref\Sistema de Nomina.dll
