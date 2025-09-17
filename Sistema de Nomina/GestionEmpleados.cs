@@ -32,7 +32,9 @@ public class GestionEmpleados
                     (var nombre, var apellido, var numerosegurosocial) = AñadirDatosBaseEmpleado();
 
                     lista_de_empleados.Add(new EmpleadoAsalariadoPorComision(nombre, apellido, numerosegurosocial, salarioBase, cantidadVentas, tarifa));
-
+                    Console.WriteLine("Empleado Agregado Exitosamente");
+                    Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                    Console.ReadLine();
                     return;
                 case 2:
                     Console.WriteLine("Ingrese su salario Semanal");
@@ -42,7 +44,9 @@ public class GestionEmpleados
                     (var nombre1, var apellido1, var numerosegurosocial1) = AñadirDatosBaseEmpleado();
 
                     lista_de_empleados.Add(new EmpleadoAsalariado(nombre1, apellido1, numerosegurosocial1, salario));
-
+                    Console.WriteLine("Empleado Agregado Exitosamente");
+                    Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                    Console.ReadLine();
                     return;
 
                 case 3:
@@ -54,7 +58,9 @@ public class GestionEmpleados
                     (var nombre2, var apellido2, var numerosegurosocial2) = AñadirDatosBaseEmpleado();
 
                     lista_de_empleados.Add(new EmpleadoPorComision(nombre2, apellido2, numerosegurosocial2, cantidadVentas1, tarifa1));
-
+                    Console.WriteLine("Empleado Agregado Exitosamente");
+                    Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                    Console.ReadLine();
                     return;
 
                 case 4:
@@ -66,6 +72,9 @@ public class GestionEmpleados
                     (var nombre3, var apellido3, var numerosegurosocial3) = AñadirDatosBaseEmpleado();
 
                     lista_de_empleados.Add(new EmpleadoPorHoras(nombre3, apellido3, numerosegurosocial3, cantidadHoras, sueldoHora));
+                    Console.WriteLine("Empleado Agregado Exitosamente");
+                    Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                    Console.ReadLine();
                     return;
 
                 case 5:
@@ -147,6 +156,8 @@ public class GestionEmpleados
                         empAsaPorCom.TarifaComision = tarifa;
 
                         Console.WriteLine("Datos actualizados");
+                        Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                        Console.ReadLine();
                     }
 
                     if (lista_de_empleados[i] is EmpleadoAsalariado empAsal)
@@ -167,7 +178,8 @@ public class GestionEmpleados
 
                         empAsal.SalarioSemanal = salario;
                         Console.WriteLine("Datos actualizados");
-
+                        Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                        Console.ReadLine();
                     }
 
                     if (lista_de_empleados[i] is EmpleadoPorComision empPorCom)
@@ -196,6 +208,8 @@ public class GestionEmpleados
                         empPorCom.TarifaComision = tarifa;
 
                         Console.WriteLine("Datos actualizados");
+                        Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                        Console.ReadLine();
 
                     }
 
@@ -224,6 +238,8 @@ public class GestionEmpleados
                         empPorhor.SueldoPorHora = sueldo;
 
                         Console.WriteLine("Datos actualizados");
+                        Console.WriteLine("*** Presione cualquier tecla para continuar ***");
+                        Console.ReadLine();
                     }
 
                 }
